@@ -15,8 +15,7 @@ Atualmente estou fazendo estágio na codiub
   <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jorge-Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Jorge-Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Jorge-React" height="30" width="50" src="https://cdnjs.com/libraries/react-inlinesvg/2.0.0" />
-</div>
+   
 
 </div>
   
