@@ -1,6 +1,6 @@
 <div style="background-color: blue">
 
-### Olá! Eu Sou o Jorge Júnior
+### Opa, tudo bom ? Meu nome é Jorge Silva Júnior
 
 Atualmente estou fazendo estágio na codiub 
 
