@@ -2,7 +2,7 @@
 
 ### Opa, tudo bom ? Meu nome é Jorge Silva Júnior
 
-Atualmente estou fazendo estágio na codiub 
+Atualmente estou fazendo estágio na codiub e estou desenvolvendo minha habilidades com React e SpringBoot 
 
 <div>
   <a href="https://github.com/jorgeskrtjr">
