@@ -1,6 +1,6 @@
 <div style="background-color: blue">
 
-### Opa, tudo bom ? Meu nome é Jorge Silva Júnior
+### oi dev
 
 Atualmente estou fazendo estágio na codiub e estou desenvolvendo minha habilidades com React e com o framework do java chamado SpringBoot 
 
