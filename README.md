@@ -2,7 +2,7 @@
 
   <div align="center">
 ### opa dev
-  </div>
+  </div height="30" width="50">
 Atualmente estou fazendo estágio na codiub e estou desenvolvendo minha habilidades com React e com o framework do java chamado SpringBoot 
   <a>
   
