@@ -1,13 +1,14 @@
 <div style="background-color: blue">
 
-### oi dev
+### opa dev
 
 Atualmente estou fazendo estágio na codiub e estou desenvolvendo minha habilidades com React e com o framework do java chamado SpringBoot 
 
 <div>
-  <a href="https://github.com/jorgeskrtjr">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jorgeskrtjr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jorgeskrtjr&layout=compact&langs_count=30&theme=onedark"/>
+  <a href="https://www.linkedin.com/in/matheus-victor-henrique-270640236/">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusVict&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVict&layout=compact&langs_count=16&theme=blue-green"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
