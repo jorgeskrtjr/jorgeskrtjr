@@ -1,10 +1,6 @@
 <div style="background-color: blue">
 
- <div margin: 5px 40px 15px 30px>
- opa dev
- 
- Atualmente estou fazendo estágio na codiub e estou desenvolvendo minha habilidades com React e com o framework do java chamado SpringBoot 
- </div>
+
   
 <div align="center">
   
